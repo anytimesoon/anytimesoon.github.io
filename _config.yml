@@ -1,0 +1,21 @@
+# Site settings
+title: Damien de Lartigue
+header-img: img/home-bg.png
+email: damien@delartigue.co.uk
+copyright_name: anytimesoon
+description: > # this means to ignore newlines until "baseurl:"
+  Learning to code
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  anytimesoon
+learn_profile: anytimesoon
+email_username: damien@delartigue.co.uk
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
