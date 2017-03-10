@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prepared statements when dealing with SQL"
-date:   2017-03-10 20:09:12 +0000
+date:   2017-03-10 15:09:13 -0500
 ---
 
 Here I am stuck on this problem with prepared statements. I'm writing this out to help with my current thought process.
