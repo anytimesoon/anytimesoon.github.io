@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Database associations"
-date:   2017-04-03 21:29:57 +0000
+date:   2017-04-03 17:29:58 -0400
 ---
 
 
